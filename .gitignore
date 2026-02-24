@@ -1,0 +1,21 @@
+#readme
+# README.md
+# BEGINNERS_GUIDE.md
+# COST_FUNCTIONS_EXPLAINED.md
+# FINAL_RESULTS.md
+# HYPERPARAMETER_TUNING_GUIDE.md
+# MODEL_COMPARISON.md
+# PROJECT_SUMMARY.md
+# QUICK_REFERENCE.md
+# QUICK_START.md
+# SUBMISSION_GUIDE.md
+*.md
+
+#csv
+*.csv
+
+#test
+test.py
+
+#runtime generated files
+catboost_info/
